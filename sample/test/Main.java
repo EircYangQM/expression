@@ -1,9 +1,9 @@
 package test;
 
-import org.xq.parser.ExpressionParser;
-import org.xq.parser.envaluation.EvaluationContext;
-import org.xq.parser.envaluation.ExpressionEngine;
-import org.xq.parser.expressions.Expression;
+import org.xq.expression.ExpressionParser;
+import org.xq.expression.envaluation.EvaluationContext;
+import org.xq.expression.envaluation.ExpressionEngine;
+import org.xq.expression.expressions.Expression;
 
 public class Main {
   public static void main(String[] args) {
