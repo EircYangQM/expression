@@ -3,9 +3,7 @@
 **A java library to parse and execute script**
 
 [Key Features](#key-features) |
-[Build and Install](#quick-build-and-install) |
-[Basic Usage](#basic-usage) |
-[Contributing](#contributing)
+[Sample](#sample) 
 
 
 ## Key Features
